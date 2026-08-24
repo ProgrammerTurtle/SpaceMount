@@ -12,6 +12,8 @@ SpaceMount sports a high rigidity frame made out of 1/4" lasercut aluminum, alum
 
 ## Drive
 
+<img width="4000" height="1305" alt="Gearbox_-_Lower_Stage_101_2026-Aug-24_03-46-59AM-000_CustomizedView28774878801" src="https://github.com/user-attachments/assets/475c21b1-70d2-4fd1-8adb-6b8504e60542" />
+
 Mechanically, it features 3 fully custom high ratio dual stage cycloidal gearboxes powered by high torque Nema 17 stepper motors.
 - One Gearbox for Azimuth
 - One Gearbox for DEC
