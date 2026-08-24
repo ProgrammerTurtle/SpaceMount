@@ -1,5 +1,7 @@
 # SpaceMount
 
+<img width="1935" height="1958" alt="Full_Astrophotography_Mount_2026-Aug-24_03-28-08AM-000_CustomizedView19236172479" src="https://github.com/user-attachments/assets/8a799fa4-fffc-45d8-b0b3-baf0695570d4" />
+
 **SpaceMount** is an open source astrophotography mount suite consisting of an automatic polar alignment unit, an equatorial mount unit, and a custom carbon fiber guider scope. 
 
 Control is carried out by a Raspberry Pi 4B running [PINS](https://github.com/nitr57/pins) talking to an SKR Pico 3D printer mainboard sporting custom firmware. 
@@ -19,5 +21,7 @@ These gearboxes are an 81:1 reduction, outputting 35Nm of torque! This allows fo
 The altitude axis features a custom 200:1 worm-gear-belt-drive system for resisting the toughest of conditions. 
 
 ## Polar Alignment
+
+<img width="1189" height="896" alt="image" src="https://github.com/user-attachments/assets/30eac649-85f1-4935-9063-61b8abfdf24e" />
 
 Mounted on the altitude axis is a camera for Polar Alignment. Utilizing Plate Solving running on the Raspberry Pi 4B, it will automatically scan the sky and align your equatorial mount with Earth's pole! No fiddling with alignment for hours. 
