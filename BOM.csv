@@ -1,5 +1,5 @@
 ,,,,,,
-,SpaceMount BOM,,,Total Estimated Cost:,$966.47,
+,SpaceMount BOM,,,Total Estimated Cost:,$977.47,
 ,,,,,,
 ,,,,,,
 ,Item Name,Quantity,Cost,Use,Source,Notes
@@ -72,5 +72,6 @@
 ,Raspberry Pi 4b,1,,Control,https://www.raspberrypi.com/products/raspberry-pi-4-model-b/,"Can substitute with many options including other Pis, mini PCs, a laptop, etc."
 ,Raspberry Pi Camera ,1,$6.00,Polar Alignment Camera,https://www.aliexpress.us/item/2251832482194239.html?,Can substitute with many other options.
 ,CSI to HDMI Converter Pair,1,$14.00,Connecting Polar Alignment Camera,https://www.amazon.com/Arducam-Extension-Module-Raspberry-Specific/dp/B06XDNBM63/,Optional but highly recommended as ribbon cable is very fragile.
+,24v 3A Power Supply ,1,$11.00,Powering SKR Pico,https://www.aliexpress.us/item/3256807053145543.html?,"Can be substituted for a more standard power supply, or for a 12v power supply, with varying performance. "
 ,6015 Fan,1,$5.00,Cooling Electronic,https://www.aliexpress.us/item/3256808462626568.html?,I am using 5v and controlling it with the pi. You can also use 12/24 and control it off the Pico. 
 ,Misc.,,,,,
