@@ -25,3 +25,7 @@ The altitude axis features a custom 200:1 worm-gear-belt-drive system for resist
 <img width="1189" height="896" alt="image" src="https://github.com/user-attachments/assets/30eac649-85f1-4935-9063-61b8abfdf24e" />
 
 Mounted on the altitude axis is a camera for Polar Alignment. Utilizing Plate Solving running on the Raspberry Pi 4B, it will automatically scan the sky and align your equatorial mount with Earth's pole! No fiddling with alignment for hours. 
+
+## Bill of Materials
+
+The BOM can be found [here](https://docs.google.com/spreadsheets/d/1fLNac8KSqefRcGDmUohNeKdPQae2YU7nyDo7UR2l_qA/edit?usp=sharing) or attached as a .CSV in the repo. 
