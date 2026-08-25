@@ -12,6 +12,8 @@ SpaceMount sports a high rigidity frame made out of 1/4" lasercut aluminum, alum
 
 ## Drive
 
+<img width="4000" height="1305" alt="Gearbox_-_Lower_Stage_101_2026-Aug-24_03-46-59AM-000_CustomizedView28774878801" src="https://github.com/user-attachments/assets/475c21b1-70d2-4fd1-8adb-6b8504e60542" />
+
 Mechanically, it features 3 fully custom high ratio dual stage cycloidal gearboxes powered by high torque Nema 17 stepper motors.
 - One Gearbox for Azimuth
 - One Gearbox for DEC
@@ -25,3 +27,7 @@ The altitude axis features a custom 200:1 worm-gear-belt-drive system for resist
 <img width="1189" height="896" alt="image" src="https://github.com/user-attachments/assets/30eac649-85f1-4935-9063-61b8abfdf24e" />
 
 Mounted on the altitude axis is a camera for Polar Alignment. Utilizing Plate Solving running on the Raspberry Pi 4B, it will automatically scan the sky and align your equatorial mount with Earth's pole! No fiddling with alignment for hours. 
+
+## Bill of Materials
+
+The BOM can be found [here](https://docs.google.com/spreadsheets/d/1fLNac8KSqefRcGDmUohNeKdPQae2YU7nyDo7UR2l_qA/edit?usp=sharing) or attached as a .CSV in the repo. 

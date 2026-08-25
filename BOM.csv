@@ -1,0 +1,77 @@
+,,,,,,
+,SpaceMount BOM,,,Total Estimated Cost:,$977.47,
+,,,,,,
+,,,,,,
+,Item Name,Quantity,Cost,Use,Source,Notes
+,Polar Mount,,,,,
+,Sheet Metal Plates,9,$142.00,Frame,https://www.oshcut.com/,See Plates_List
+,87.3mm 2040 Extrusion,2,$22.00,Frame,https://www.aliexpress.us/item/3256802459096306.html?,Covers Both Lengths of 2040 - Buy 400mm and Cut to Size
+,52.8mm 2040 Extrusion,2,,Frame,,
+,87.3mm 4040 Extrusion,1,$12.00,Altitude Shaft,https://www.aliexpress.us/item/3256807986307289.html?,Buy 100mm and Cut to Size
+,Arcaswiss Mounting Plate and Clamp,1,$22.35,Mounting,https://www.aliexpress.us/item/2251832498884091.html,
+,RU42UUCC0 Bearing,1,$28.80,Azimuth Output,https://www.aliexpress.us/item/3256808596705253.html?,
+,61815 Bearing,2,$33.00,Altitude Turret Bearing,https://www.aliexpress.us/item/3256812188522321.html?,
+,F695 Bearing,2,$5.00,Altitude Gearing Bearing,https://www.aliexpress.us/item/3256808879550935.html?,
+,6811 Bearing,1,$15.00,Azimuth Gearbox Internal Bearing,https://www.aliexpress.us/item/3256812548641570.html,
+,5mm x 100mm Steel Pin,1,$11.00,Altitude Gearing Shaft,https://www.aliexpress.us/item/3256807759794825.html? ,
+,5mm x 15mm Steel Pin,10,$10.00,Azimuth Gearbox Internal Pins,https://www.aliexpress.us/item/3256807759794825.html?,Buy 2 packs
+,15mm M3 Standoff,12,$8.00,Azimuth Gearbox Output Pin Shafts,https://www.aliexpress.us/item/3256803337647492.html?,Buy 2 packs
+,5mmx8mmx12mm Brass Bushing,12,$12.00,Azimuth Gearbox Ouput Pin Bushings,https://www.aliexpress.us/item/3256810437400585.html?,Buy 2 packs
+,50t 5mm Bore Worm Gear Set,1,$20.50,Altitude Gearing Gear,https://www.aliexpress.us/item/2255800299678278.html?,
+,40T 5mm Bore 6mm Belt Pulley,2,$12.00,Altitude Gearing Pulleys ,https://www.aliexpress.us/item/2251832807875643.html?,
+,450mm Length Closed Loop GT2 6mm Belt,2,$15.00,Altitude Gearing Belts,https://www.aliexpress.us/item/3256812034723597.html?,
+,Angeleyes Small Vixen Clamp,1,$34.00,Altitude External Mounting,https://www.aliexpress.us/item/3256807005155740.html?,
+,M6x10mm Socket Head Bolts,4,$3,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M5x100mm Socket Head Bolts,7,$10,Assembly,https://www.amazon.com/Joamang-M5-0-8-Socket-Stainless-Threaded/dp/B0DPHTLG5H/,
+,M5x10mm Socket Head Bolts,9,$2,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M5x16mm Socket Head Bolts,36,$10,Assembly,https://www.amazon.com/M5-0-8-Socket-Screws-Stainless-Thread/dp/B07PXL8DGH,
+,M5x25mm Socket Head Bolts,21,$7,Assembly,https://www.aliexpress.us/item/3256802134660814.html?,Buy 3 packs
+,M5x20mm Socket Head Bolts,2,$2.50,Assembly,https://www.aliexpress.us/item/3256802134660814.html?,
+,M5 Heat Set Inserts Long (M5xL6xOD7),4,,Assembly,https://www.aliexpress.us/item/3256805885174058.html?,
+,M4x75mm Socket Head Bolts,10,$7.00,Assembly,https://www.aliexpress.us/item/3256808167502621.html,
+,M4 Hex Locknuts,10,$2.00,Assembly,https://www.aliexpress.us/item/2251832801119212.html?,
+,M3x16mm Countersunk Head Bolts,12,$2.50,Assembly,https://www.aliexpress.us/item/2251832781782755.html?,
+,M3x25mm Socket Head Bolts,6,$3.50,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M3x20mm Socket Head Bolts,6,$3.20,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M3 Heat Set Inserts Long (M3xL6xOD4),9,,Assembly,https://www.aliexpress.us/item/3256805885174058.html?,
+,M2x12mm Socket Head Bolts,4,$1.82,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,2004s1 Nema 17 Stepper Motor,2,$28,Drive Motors,https://www.aliexpress.us/item/3256806039037773.html?,Use Any with Decent Torque
+,Equatorial Mount,,,,,
+,Sheet Metal Plates,5,$88.00,Frame,https://www.oshcut.com/,
+,87.3mm 2040 Extrusion,4,$22.00,Frame,https://www.aliexpress.us/item/3256802459096306.html,Buy 400mm and Cut to Size
+,Angeleyes Small Vixen Clamp,1,$34.00,Altitude External Mounting,https://www.aliexpress.us/item/3256807005155740.html?,
+,Angeleyes 80mm Vixen Rail,1,$13.00,Mounting,https://www.aliexpress.us/item/3256808818951030.html?,
+,5mm x 15mm Steel Pin,20,$15.00,R.A. and Dec Gearbox Internal Pins,https://www.aliexpress.us/item/3256807759794825.html?,Buy 4 packs
+,15mm M3 Standoff,24,$12.00,R.A and Dec Gearbox Output Pin Shafts,https://www.aliexpress.us/item/3256803337647492.html?,Buy 3 packs
+,5mmx8mmx12mm Brass Bushing,24,$14.00,R.A. and Dec Gearbox Ouput Pin Bushings,https://www.aliexpress.us/item/3256810437400585.html?,Buy 3 packs
+,RU42UUCC0 Bearing,2,$60.00,R.A. and Dec Main Bearings,https://www.aliexpress.us/item/3256808596705253.html?,
+,6811 Bearing,2,$33.00,R.A. and Dec Gearbox Internal Bearings,https://www.aliexpress.us/item/3256812548641570.html,
+,M6x12 Socket Head Bolt,3,$3.00,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M6x10 Socket Head Bolt,4,$3.00,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M5x16mm Socket Head Bolt,16,$5.00,Assembly,https://www.aliexpress.us/item/3256802134660814.html,Buy 2 packs
+,M5x10mm Socket Head Bolt,6,$2.00,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M5 T Nuts,6,$6.20,Assembly,https://www.aliexpress.us/item/2251832618848960.html?,Use extra to attach any mods/additions to the existing extrusions.
+,M4x75mm Socket Head Bolt,20,$11.00,Assembly,https://www.aliexpress.us/item/3256808167502621.html,Buy 2 packs
+,M4 Hex Locknuts,20,$4.00,Assembly,https://www.aliexpress.us/item/2251832801119212.html,Buy 2 packs
+,M3x16mm Countersunk Head Bolts,24,,Assembly,https://www.aliexpress.us/item/2251832781782755.html?,Excess from Polar Mount
+,M3x25mm Socket Head Bolts,12,,Assembly,https://www.aliexpress.us/item/3256802134660814.html,Excess from Polar Mount
+,M3x20mm Socket Head Bolts,12,,Assembly,https://www.aliexpress.us/item/3256802134660814.html,Excess from Polar Mount
+,M3 Heat Set Inserts Long (M3xL6xOD4),9,,Assembly,https://www.aliexpress.us/item/3256805885174058.html?,Excess from Polar Mount
+,2004s1 Nema 17 Stepper Motor,2,$28,Drive Motors,https://www.aliexpress.us/item/3256806039037773.html?,Use Any with Decent Torque
+,Guider Scope,,,,,
+,IMX290 Sensor,1,$53.00,Guide Scope Sensor,https://shop.openastrotech.com/products/openastroguider-hardware-only?variant=39254160113851,
+,182mm Focal Length 50mm Lens,1,$20.00,Guide Scope Optics,https://shop.openastrotech.com/products/openastroguider-hardware-only?variant=39254160081083,
+,M5x20mm Socket Head Screw,1,,Assembly,https://www.aliexpress.us/item/3256802134660814.html?,Excess from Polar Mount
+,M5 Hex Nut,1,,Assembly,https://www.aliexpress.us/item/3256811960981887.html,
+,M5 Heat Set Inserts Long (M5xL6xOD7),4,,Assembly,https://www.aliexpress.us/item/3256805885174058.html?,Excess from Polar Mount
+,M3x10mm Socket Head Bolt,4,,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,M2.5x10mm Socket Head Bolt,4,,Assembly,https://www.aliexpress.us/item/3256802134660814.html,
+,54mm ID Carbon Fiber tube,1,,Structure,Your Choice,"Source from anywhere, must be 54mm ID. I am winding it myself. "
+,Electronics,,,,,
+,SKR Pico Mainboard,1,$30.00,Control,https://www.aliexpress.us/item/3256806852052563.html?,
+,Raspberry Pi 4b,1,,Control,https://www.raspberrypi.com/products/raspberry-pi-4-model-b/,"Can substitute with many options including other Pis, mini PCs, a laptop, etc."
+,Raspberry Pi Camera ,1,$6.00,Polar Alignment Camera,https://www.aliexpress.us/item/2251832482194239.html?,Can substitute with many other options.
+,CSI to HDMI Converter Pair,1,$14.00,Connecting Polar Alignment Camera,https://www.amazon.com/Arducam-Extension-Module-Raspberry-Specific/dp/B06XDNBM63/,Optional but highly recommended as ribbon cable is very fragile.
+,24v 3A Power Supply ,1,$11.00,Powering SKR Pico,https://www.aliexpress.us/item/3256807053145543.html?,"Can be substituted for a more standard power supply, or for a 12v power supply, with varying performance. "
+,6015 Fan,1,$5.00,Cooling Electronic,https://www.aliexpress.us/item/3256808462626568.html?,I am using 5v and controlling it with the pi. You can also use 12/24 and control it off the Pico. 
+,Misc.,,,,,
