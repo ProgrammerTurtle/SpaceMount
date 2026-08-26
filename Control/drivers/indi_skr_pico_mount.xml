@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driversList>
+   <devGroup group="Telescopes">
+      <device label="SKR Pico Cycloidal Mount" manufacturer="DIY">
+         <driver name="SKR Pico Cycloidal Mount">indi_skr_pico_mount</driver>
+         <version>0.1</version>
+      </device>
+   </devGroup>
+</driversList>
